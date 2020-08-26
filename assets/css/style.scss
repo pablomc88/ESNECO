@@ -12,7 +12,7 @@ img[alt=EUlogo] { width: 25%; height: 25%;}
 }
 
 /* Style the links inside the navigation bar */
-.topnav a {
+.topnav button {
   float: left;
   color: #f2f2f2;
   text-align: center;
@@ -22,13 +22,13 @@ img[alt=EUlogo] { width: 25%; height: 25%;}
 }
 
 /* Change the color of links on hover */
-.topnav a:hover {
+.topnav button:hover {
   background-color: #ddd;
   color: black;
 }
 
 /* Add a color to the active/current link */
-.topnav a.active {
+.topnav button.active {
   background-color: #4CAF50;
   color: white;
 }
