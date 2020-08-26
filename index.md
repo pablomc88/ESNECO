@@ -1,4 +1,4 @@
-{% include navigation.html}
+{{ site.data.navigation}}
 
 ## Welcome to ESNECO project 
 
