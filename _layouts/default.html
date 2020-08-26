@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<script src="/assets/js/script_1.js"></script>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="{{ base.url | prepend: site.url }}/assets/js/script_1.js"></script>
+    
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -42,9 +43,9 @@
       <section>
 
       <div id="myDIV">
-        <button class="btn active" href="index">Home</button>
-        <button class="btn" a href="about">About</button>
-        <button class="btn" a href="index_of_posts">News</button>
+        <a class="btn active" href="index">Home</a>
+        <a class="btn" href="about">About</a>
+        <a class="btn" href="index_of_posts">News</a>
       </div>
         
       &nbsp
