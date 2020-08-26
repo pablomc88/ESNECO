@@ -41,10 +41,10 @@
       </header>
       <section>
 
-      <div id="topnav">
-        <button  class="btn active"><a href="index">Home</a></button >
-        <button  class="btn"><a href="about">About</a></button >
-        <button  class="btn"><a href="index_of_posts">News</a></button >
+      <div class="topnav">
+        <a href="index">Home</a>
+        <a href="about">About</a>
+        <a href="index_of_posts">News</a>
       </div>
         
       &nbsp
@@ -71,19 +71,6 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
-    
-    <script>
-      // Add active class to the current button (highlight it)
-      var header = document.getElementById("topnav");
-      var btns = header.getElementsByClassName("btn");
-      for (var i = 0; i < btns.length; i++) {
-        btns[i].addEventListener("click", function() {
-        var current = document.getElementsByClassName("active");
-        current[0].className = current[0].className.replace(" active", "");
-        this.className += " active";
-        });
-      }
-    </script>
     
   </body>
 </html>
