@@ -1,1 +1,9 @@
 theme: jekyll-theme-slate
+
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: About
+  url: /about/
