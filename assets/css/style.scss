@@ -21,14 +21,8 @@ img[alt=EUlogo] { width: 25%; height: 25%;}
   font-size: 17px;
 }
 
-/* Change the color of links on hover */
-.btn a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
 /* Add a color to the active/current link */
-.btn a.active {
+.active, .btn:hover {
   background-color: #4CAF50;
   color: white;
 }
