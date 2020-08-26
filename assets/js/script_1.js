@@ -1,8 +1,8 @@
 // Get the container element
-var btnContainer = document.getElementById("myDIV");
+var btnContainer = document.getElementByClass("topnav");
 
 // Get all buttons with class="btn" inside the container
-var btns = btnContainer.getElementsByClassName("btn");
+var btns = btnContainer.getElementsByClassName("a");
 
 // Loop through the buttons and add the active class to the current/clicked button
 for (var i = 0; i < btns.length; i++) {
