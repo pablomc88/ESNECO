@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img.resize {
+  max-width:200%;
+  max-height:200%;
+}
