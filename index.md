@@ -2,4 +2,4 @@
 
 ESNECO is a project funded by Marie Skłodowska-Curie Actions. 
 
-<img src=assets/logo_ce-en-rvb-hr.jpg width="150" height="100">
+![EUlogo](assets/logo_ce-en-rvb-hr.jpg) <!-- .element height="50%" width="50%" -->
