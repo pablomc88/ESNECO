@@ -1,5 +1,5 @@
 
-## Description 
+## Description of the project
 
 The electroencephalogram (EEG) is one of the most important non-invasive brain imaging tools in neuroscience and in the
 clinic, but surprisingly little is known about the features of neural circuit activity that give rise to the EEG. The challenge 
