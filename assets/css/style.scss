@@ -3,7 +3,9 @@
 
 @import "{{ site.theme }}";
 
-img.resize {
-  max-width:200%;
-  max-height:200%;
+
+div.wrapper {
+  width:200%;
+  height:200%;
 }
+
