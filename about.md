@@ -20,7 +20,7 @@ progress toward bridging the gap between EEG and neuron dynamics.
 
 ## Host Institution 
 
-The [Neural Coding lab](https://www.iit.it/research/lines/neural-coding) of Istituto Italiano di Tecnologia (IIT) is an interdisciplinary lab jointly led by Dr. Panzeri and Dr.
+The Neural Coding lab of Istituto Italiano di Tecnologia (IIT) is an interdisciplinary lab jointly led by Dr. Panzeri and Dr.
 Fellin with complementary computational and experimental facilities. The Neural Coding lab is entirely located in Genova and 
 integrates researchers from two different labs: the [Optical Approaches to Brain Function lab](https://www.iit.it/research/lines/optical-approaches-to-brain-function) and the [Neural Computation Lab](https://www.iit.it/research/lines/neural-computation). 
 The labs have expertise in electrophysiology, neuroimaging, neurophotonics, circuit neuroscience, computational neuroscience, 
